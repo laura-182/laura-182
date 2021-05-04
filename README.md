@@ -1,5 +1,9 @@
+![github header](https://user-images.githubusercontent.com/83670784/117069324-f4421780-acf1-11eb-91d9-5167a57071a5.png)
 ### Hi there 👋
 
+I work in Cedar Rapids, Iowa for a combined chamber of commerce, economic development, and downtown organization, handling all their data needs. Iowa native, Minnesota educated. What started as a crush on Excel has evolved into match made in R heaven. I spend my days rolling around in data from the Census, BLS, BEA, city building permits, development projects, real estate, membership directories, website analytics, email newsletters, digital marketing, and more!
+
+Right now I'm in the process of making our data updates more efficient and automating our reports for our audiences.
 <!--
 **laura-182/laura-182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
