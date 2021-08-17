@@ -14,7 +14,7 @@ R Packages I'm Interested In and :heavy_check_mark:	 Currently Using in Projects
 - [x] googlesheets4
 - [x] kableExtra
 - [ ] bookdown
-- [ ] blogdown
+- [x] blogdown
 
 <!--
 **laura-182/laura-182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
