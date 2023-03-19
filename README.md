@@ -7,13 +7,17 @@ R Packages I'm Interested In and :heavy_check_mark:	 Currently Using in Projects
 - [ ] Microsoft365R
 - [x] blscrapeR
 - [x] tidycensus
-- [ ] bea.R
-- [ ] googleAnalyticsR
+- [x] tigris
 - [x] googlesheets4
 - [x] kableExtra
 - [ ] bookdown
 - [x] blogdown
 - [x] shiny
+- [x] box
+- [x] golem
+- [x] flexdashboard
+- [x] janitor
+- [x] openxlsx
 
 <!--
 **laura-182/laura-182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
