@@ -2,8 +2,14 @@
 
 ### Hey guys! :bar_chart:	:cityscape:
 
-Just working from my basement office in Eastern Iowa as a programmer specializing in workforce development research and evaluation. Dreaming of 
+Just working from my basement office in Eastern Iowa as an R and #dataviz programmer specializing in workforce development research and evaluation.
 
+🧼:package:
+They say bureaucracy is bad. I say the problem isn't bureacracy, it's a lack of investment (:stopwatch: & 💰) in designing the user experience for digital resources, database management, and omnichannel communication.
+
+In other words, websites suck, we have better ways to fill out forms, and customer service is awful.
+
+<!--
 R Packages I'm Interested In and :heavy_check_mark:	 Currently Using in Projects...
 - [x] blscrapeR
 - [x] tidycensus
@@ -19,7 +25,7 @@ R Packages I'm Interested In and :heavy_check_mark:	 Currently Using in Projects
 - [x] janitor
 - [x] openxlsx
 
-<!--
+
 **laura-182/laura-182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
