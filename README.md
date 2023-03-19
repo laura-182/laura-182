@@ -7,7 +7,7 @@ Just working from my basement office in Eastern Iowa as an R and #dataviz progra
 🧼:package:
 They say bureaucracy is bad. I say the problem isn't bureacracy, it's a lack of investment (:stopwatch: & 💰) in designing the user experience for digital resources, database management, and omnichannel communication.
 
-In other words, websites suck, we have better ways to fill out forms, and customer service is awful.
+In other words, government websites suck, we have better ways to fill out forms, and then gov't employees can spend more time helping people instead of working with antiquated systems.
 
 <!--
 R Packages I'm Interested In and :heavy_check_mark:	 Currently Using in Projects...
