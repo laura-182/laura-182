@@ -1,10 +1,10 @@
-![github header](https://user-images.githubusercontent.com/83670784/117069324-f4421780-acf1-11eb-91d9-5167a57071a5.png)
-### Hey! :bar_chart:	:cityscape:
+![github header](https://github.com/laura-182/laura-182/blob/main/header_3-19-2023.png)
 
-I'm finally a full-fledged R programmer! Whatever that means!
+### Hey guys! :bar_chart:	:cityscape:
+
+Just working from my basement office in Eastern Iowa as a programmer specializing in workforce development research and evaluation. Dreaming of 
 
 R Packages I'm Interested In and :heavy_check_mark:	 Currently Using in Projects...
-- [ ] Microsoft365R
 - [x] blscrapeR
 - [x] tidycensus
 - [x] tigris
